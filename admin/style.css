@@ -1,0 +1,11 @@
+body{font-family:Ubuntu,Georgia,"Times New Roman",Times,serif;background-color:gray;margin:0;color:#FFFFFF;}
+.sidebar{height:100%;background-color:#696969;width:10%;position:relative;float:left;}
+.adminBody{position:relative;width:89%;float:right;}
+.sidebarBox{background-color:#999999;width:100%;border-top:1px solid #6E6E6E;border-bottom:1px solid #6E6E6E;display:inline-block;padding:2% 0;}
+.sidebarBox:hover{display:inline-block;padding:2% 0;background-color:#6E6E6E;width:100%;border-top:1px solid #999999;border-bottom:1px solid #999999;}
+a{color:#FFFFFF;text-decoration:underline;}
+a:hover{color:#FFFFFF;text-decoration:none;}
+
+/* >> ADMIN REGISTRATION/LOGIN << */
+.loginBox{display: table;margin-left: auto;margin-right:auto;position: relative;margin-top:15%;border:1px dashed white;border-radius:5px;padding:15px;}
+.loginBox h2{display: table;margin: 0 auto;padding-bottom: 15px;}
